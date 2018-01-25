@@ -16,6 +16,8 @@
     "debug": "^2.6.7",
     "depd": "^1.1.0",
     "destroy": "^1.0.4",
+    "dot-env": "0.0.1",
+    "dotenv": "^4.0.0",
     "ee-first": "^1.1.1",
     "encodeurl": "^1.0.1",
     "escape-html": "^1.0.3",
